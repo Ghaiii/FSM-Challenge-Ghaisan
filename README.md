@@ -17,10 +17,14 @@ For this challenge i made an fsm for the 4 states of a gun.
 11 = reload = This input represents the reload state of the gun.
 
 # Karnaugh map
+S0 Kmap
 ![kmapS0](https://user-images.githubusercontent.com/114584858/214088849-6554d21c-0007-44bd-911a-ce50f344a8fe.png)
  
+S1 Kmap
 ![kmapS1](https://user-images.githubusercontent.com/114584858/214088935-a8fbf251-96fe-4462-8085-bd6620aaf8ac.png)
 
+O0 Kmap
 ![kmapO0](https://user-images.githubusercontent.com/114584858/214089076-896d0746-f731-48d0-895b-438b79864668.png)
 
+O1 Kmap
 ![kmapO1](https://user-images.githubusercontent.com/114584858/214089093-532179fa-d03d-4792-b531-1fc26620079c.png)
