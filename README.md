@@ -16,6 +16,14 @@ For this challenge i made an fsm for the 4 states of a gun.
 10 = Empty = this input represents the empty state of the gun after the gun.
 11 = reload = This input represents the reload state of the gun.
 
+Boolean Equations
+From the Karnaugh Maps above, we can derive these boolean equations:
+
+S0 = s0 i1' i2' + s0' i1' i2 + s0' s1' i2 + s1' i1' i2' + s0' i1 i2'
+S1 = s1 i1' i2' + s1' i1 i2 + s0' i1 i2'
+o0 = s0
+o1 = s1
+
 # Karnaugh map
 S0 Kmap
 ![kmapS0](https://user-images.githubusercontent.com/114584858/214088849-6554d21c-0007-44bd-911a-ce50f344a8fe.png)
