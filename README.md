@@ -28,3 +28,6 @@ O0 Kmap
 
 O1 Kmap
 ![kmapO1](https://user-images.githubusercontent.com/114584858/214089093-532179fa-d03d-4792-b531-1fc26620079c.png)
+
+# Truth table
+![TrutTable](https://user-images.githubusercontent.com/114584858/214091759-fa93b645-dec2-4c0f-bab3-8ba42db34952.png)
