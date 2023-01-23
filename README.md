@@ -11,4 +11,16 @@ For this challenge i made an fsm for the 4 states of a gun.
 - empty clip : on this stage the gun is out of ammo and needs a reload.
 - reloading : on this stage the gun is being reloaded, changing the old magazine with a new loaded one.
 
+00 = Idle = this input represents the idle state of the gun.
+01 = Firing = this input represents the firing state of the gun.
+10 = Empty = this input represents the empty state of the gun after the gun.
+11 = reload = This input represents the reload state of the gun.
 
+# Karnaugh map
+![kmapS0](https://user-images.githubusercontent.com/114584858/214088849-6554d21c-0007-44bd-911a-ce50f344a8fe.png)
+ 
+![kmapS1](https://user-images.githubusercontent.com/114584858/214088935-a8fbf251-96fe-4462-8085-bd6620aaf8ac.png)
+
+![kmapO0](https://user-images.githubusercontent.com/114584858/214089076-896d0746-f731-48d0-895b-438b79864668.png)
+
+![kmapO1](https://user-images.githubusercontent.com/114584858/214089093-532179fa-d03d-4792-b531-1fc26620079c.png)
