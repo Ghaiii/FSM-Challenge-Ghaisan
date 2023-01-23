@@ -24,7 +24,7 @@ S1 Kmap
 ![kmapS1](https://user-images.githubusercontent.com/114584858/214088935-a8fbf251-96fe-4462-8085-bd6620aaf8ac.png)
 
 O0 Kmap
-![kmapO0](https://user-images.githubusercontent.com/114584858/214089076-896d0746-f731-48d0-895b-438b79864668.png)
+![kmaps11](https://user-images.githubusercontent.com/114584858/214090199-116246d5-ddd0-495a-b772-433f07a62d7e.png)
 
 O1 Kmap
 ![kmapO1](https://user-images.githubusercontent.com/114584858/214089093-532179fa-d03d-4792-b531-1fc26620079c.png)
