@@ -48,3 +48,7 @@ From the above State Diagram, we can construct a truth table:
 
 ![TrutTable](https://user-images.githubusercontent.com/114584858/214091759-fa93b645-dec2-4c0f-bab3-8ba42db34952.png)
 
+# Visualization
+this is a video showing the code in action
+
+https://user-images.githubusercontent.com/114584858/214198319-9866b756-36cd-4c55-9405-ad086ad872ed.mp4
