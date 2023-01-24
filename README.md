@@ -25,17 +25,26 @@ o0 = s0
 o1 = s1
 
 # Karnaugh map
-S0 Kmap
+From the Truth Table, i created a Karnaugh Map for all the states and outputs:
+
+S0 Kmap:
+
 ![kmapS0](https://user-images.githubusercontent.com/114584858/214088849-6554d21c-0007-44bd-911a-ce50f344a8fe.png)
  
-S1 Kmap
+S1 Kmap:
+
 ![kmapS1](https://user-images.githubusercontent.com/114584858/214088935-a8fbf251-96fe-4462-8085-bd6620aaf8ac.png)
 
-O0 Kmap
+O0 Kmap:
+
 ![kmaps11](https://user-images.githubusercontent.com/114584858/214090199-116246d5-ddd0-495a-b772-433f07a62d7e.png)
 
-O1 Kmap
+O1 Kmap:
+
 ![kmapO1](https://user-images.githubusercontent.com/114584858/214089093-532179fa-d03d-4792-b531-1fc26620079c.png)
 
 # Truth table
+From the above State Diagram, we can construct a truth table:
+
 ![TrutTable](https://user-images.githubusercontent.com/114584858/214091759-fa93b645-dec2-4c0f-bab3-8ba42db34952.png)
+
